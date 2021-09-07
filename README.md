@@ -16,3 +16,9 @@ Data preprocessing is required tasks for cleaning the data and making it suitabl
 4.Encoding categorical data(part2)<br>
 5.Splitting the dataset into training set and test set(part3)<br>
 6.Featuring scale(part3)<br>
+
+Reference:-
+<br>
+<a href="https://www.udemy.com/course/machinelearning/">Udemy</a>
+<br>
+<a href="https://www.javatpoint.com/data-preprocessing-machine-learning ">Javapoint</a>
