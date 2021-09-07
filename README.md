@@ -3,5 +3,5 @@
 2.importing dataset(part1)<br>
 3.taking care of missing data(part2)<br>
 4.encoding categorical data(part2)<br>
-5.splitting the dataset into training set and test set<br>
-6.featuring scale<br>
+5.splitting the dataset into training set and test set(part3)<br>
+6.featuring scale(part3)<br>
